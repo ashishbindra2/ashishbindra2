@@ -93,16 +93,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ashishbindra2&theme=tokyonight&no-frame=true&column=7&margin-w=10)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
