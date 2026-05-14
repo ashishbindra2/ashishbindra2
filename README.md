@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Ashish Bindra%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Junior%20Data%20Scientist%20%7C%20Python%20%7C%20ML%20%7C%20Java&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Ashish_Bindra%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Junior%20Data%20Scientist%20%7C%20Python%20%7C%20ML%20%7C%20Java&descAlignY=55&descAlign=50" />
 
 <a href="https://github.com/ashishbindra2">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Junior+Data+Scientist+%F0%9F%94%AC;Python+%7C+ML+%7C+Data+Analysis+%F0%9F%93%8A;Java+Developer+%E2%98%95;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
