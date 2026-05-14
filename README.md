@@ -82,9 +82,8 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashishbindra2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishbindra2&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashishbindra2&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishbindra2&theme=tokyonight" />
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishbindra2&theme=tokyonight&hide_border=true" />
